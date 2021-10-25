@@ -4,7 +4,7 @@
 
 This is my attempt at the 'Build a Tribute Page' project, part of the freeCodeCamp, Responsive Web Design Certification. 
 
-I chose Emil Zatopek as the subject of my tribute page as during lockdown, I started running again, and recently read the autobiography of Zatopek, [Today We Die a Little: The Rise and Fall of Emil Zátopek][1]. 
+I chose Emil Zatopek as the subject of my tribute page. Recently I started to run again, after a knee injury and then getting covid. During my quarantine, I read the autobiography of Zatopek, [Today We Die a Little: The Rise and Fall of Emil Zátopek][1]. 
 
 Using HTML and CSS to complete the project, I learned the importance of correct, semantic HTML tagging, and how to postion HTML elements using Flexbox.
 
